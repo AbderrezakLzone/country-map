@@ -1,0 +1,56 @@
+{
+    "Minnesota": {
+        "Wilkersonburgh": "551601",
+        "Minneapolis": "55101",
+        "Saint Paul": "55102",
+        "Duluth": "55802"
+    },
+    "California": {
+        "Los Angeles": "90001",
+        "San Francisco": "94102",
+        "San Diego": "92101",
+        "Sacramento": "95814"
+    },
+    "Texas": {
+        "Dallas": "75201",
+        "Houston": "77001",
+        "Austin": "73301",
+        "San Antonio": "78201"
+    },
+    "New York": {
+        "New York City": "10001",
+        "Buffalo": "14201",
+        "Rochester": "14602",
+        "Albany": "12201"
+    },
+    "Florida": {
+        "Miami": "33101",
+        "Orlando": "32801",
+        "Tampa": "33601",
+        "Jacksonville": "32201"
+    },
+    "Illinois": {
+        "Chicago": "60601",
+        "Springfield": "62701",
+        "Naperville": "60540",
+        "Peoria": "61602"
+    },
+    "Pennsylvania": {
+        "Philadelphia": "19101",
+        "Pittsburgh": "15201",
+        "Allentown": "18101",
+        "Harrisburg": "17101"
+    },
+    "Ohio": {
+        "Columbus": "43201",
+        "Cleveland": "44101",
+        "Cincinnati": "45201",
+        "Akron": "44301"
+    },
+    "Georgia": {
+        "Atlanta": "30301",
+        "Savannah": "31401",
+        "Augusta": "30901",
+        "Macon": "31201"
+    }
+}
